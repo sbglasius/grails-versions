@@ -1,4 +1,6 @@
-grails-versions
+![Grails Versions](https://github.com/sbglasius/grails-versions/workflows/Grails%20Versions/badge.svg?branch=master)
+
+Grails Versions
 ---
 Adapted from Eric Helgeson who has archived his project.
 
