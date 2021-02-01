@@ -15,15 +15,6 @@ jobs:
       - name: Inspect space on device pre
         run: df -h
 
-      - name: SDKman Cache
-        uses: actions/cache@v2
-        with:
-          path: |
-            ~/.sdkman/archives
-          key: ${{ runner.os }}-sdkman-${{ hashFiles('**/archives/*') }}
-          restore-keys: |
-            ${{ runner.os }}-sdkman-
-
       - name: Get latest SDK Man
         run: |
           curl -s "https://get.sdkman.io" | bash
@@ -47,8 +38,5 @@ jobs:
       - name: Make a difference
         run: ./diff.sh
 
-      - name: Inspect space on device post
-        run: df -h
-
-      - name: Clean up SDKman to keep only the jdk
-        run: rm ~/.sdkman/archives/grails*.zip
+      - name: Inspect space on device
+        run: df -h ~/

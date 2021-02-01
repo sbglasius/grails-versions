@@ -21,6 +21,7 @@ do
     git tag $version
     rm -rf versions
     sdk uninstall grails $version
+    sdk flush archives
     df -h .
 done
 
