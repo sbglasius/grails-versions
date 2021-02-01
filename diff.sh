@@ -12,7 +12,7 @@ do
     sdk use grails $version
     grails create-app versions
     cd versions
-    ./gradlew dependencyManagement > ../dependencyManagement.txt
+    ./gradlew --no-daemon dependencyManagement > ../dependencyManagement.txt
     cd ..
     git add versions
     git commit -a -m $version
