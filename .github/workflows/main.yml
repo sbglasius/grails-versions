@@ -50,3 +50,5 @@ jobs:
       - name: Inspect space on device post
         run: df -h
 
+      - name: Clean up SDKman to keep only the jdk
+        run: rm ~/.sdkman/archives/grails*.zip
