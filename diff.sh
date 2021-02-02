@@ -11,13 +11,12 @@ do
     sdk install grails $version
     sdk use grails $version
     grails create-app versions
-    touch ~/dependencyManagement.txt
     cd versions
     ./gradlew -v
-    ./gradlew --no-daemon dependencyManagement > ~/dependencyManagement.txt
+    ./gradlew --no-daemon dependencyManagement > dependencies.txt
+    ls -l
     cd ..
     echo "Performing git gymnastics"
-    git add dependencyManagement.txt
     git add versions
     git commit -a -m $version
     git push origin :refs/tags/$version
