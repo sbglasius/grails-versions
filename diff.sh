@@ -15,7 +15,7 @@ do
     ./gradlew -v
     ./gradlew --no-daemon dependencyManagement > ~/dependencyManagement.txt
     cd ..
-    git add versions
+    git add versions dependencyManagement.txt
     git commit -a -m $version
     git push origin :refs/tags/$version
     git tag $version
