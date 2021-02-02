@@ -12,12 +12,12 @@ do
     sdk use grails $version
     grails create-app versions
     cd versions
-    ./gradlew --no-daemon dependencyManagement > ../dependencyManagement.txt
+    ./gradlew -v
+    ./gradlew --no-daemon dependencyManagement > ~/dependencyManagement.txt
     cd ..
     git add versions
     git commit -a -m $version
     git push origin :refs/tags/$version
-    git tag --delete $version
     git tag $version
     rm -rf versions
     sdk uninstall grails $version
