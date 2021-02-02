@@ -16,6 +16,7 @@ do
     ./gradlew -v
     ./gradlew --no-daemon dependencyManagement > ~/dependencyManagement.txt
     cd ..
+    echo "Performing git gymnastics"
     git add dependencyManagement.txt
     git add versions
     git commit -a -m $version
