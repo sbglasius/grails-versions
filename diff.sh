@@ -3,7 +3,7 @@ git config user.name github-actions
 git config user.email github-actions@github.com
 
 export SDKMAN_DIR="$HOME/.sdkman" && source "$HOME/.sdkman/bin/sdkman-init.sh"
-
+export CURRENT_DIR=`pwd` 
 for version in $(cat versions.txt)
 do
     echo "Processing $version"
@@ -14,7 +14,7 @@ do
     ./gradlew -v
     ./gradlew --no-daemon dependencyManagement > dependencies.txt
     ls -l
-    cd ..
+    cd $CURRENT_DIR
     pwd
     echo "Performing git gymnastics"
     git add versions
