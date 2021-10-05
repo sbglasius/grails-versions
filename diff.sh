@@ -3,7 +3,6 @@ git config user.name github-actions
 git config user.email github-actions@github.com
 
 export SDKMAN_DIR="$HOME/.sdkman" && source "$HOME/.sdkman/bin/sdkman-init.sh"
-sdk install java 8.0.282-open
 
 for version in $(cat versions.txt)
 do
