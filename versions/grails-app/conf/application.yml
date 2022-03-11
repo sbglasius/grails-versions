@@ -4,7 +4,7 @@ hibernate:
         queries: false
         use_second_level_cache: true
         use_query_cache: false
-        region.factory_class: 'org.hibernate.cache.ehcache.EhCacheRegionFactory'
+        region.factory_class: org.hibernate.cache.ehcache.SingletonEhCacheRegionFactory
 
 dataSource:
     pooled: true
@@ -24,7 +24,7 @@ environments:
             url: jdbc:h2:mem:testDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE
     production:
         dataSource:
-            dbCreate: update
+            dbCreate: none
             url: jdbc:h2:./prodDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE
             properties:
                 jmxEnabled: true
@@ -52,17 +52,22 @@ grails:
     codegen:
         defaultPackage: versions
     spring:
-        transactionManagement: false
+        transactionManagement:
+            proxies: false
 info:
     app:
         name: '@info.app.name@'
         version: '@info.app.version@'
         grailsVersion: '@info.app.grailsVersion@'
 spring:
-
     groovy:
         template:
             check-template-location: false
+# Spring Actuator Endpoints are Disabled by Default
+endpoints:
+    enabled: false
+    jmx:
+        enabled: true
 
 ---
 grails:
