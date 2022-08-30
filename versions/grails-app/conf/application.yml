@@ -86,10 +86,6 @@ grails:
                 scriptlet: html
                 taglib: none
                 staticparts: none
-management:
-    endpoints:
-        jmx:
-            unique-names: true
 
 ---
 hibernate:
