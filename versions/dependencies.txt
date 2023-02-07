@@ -740,11 +740,11 @@ global - Default dependency management for all configurations
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.3
-	org.grails:grails-codecs 5.2.3
-	org.grails:grails-console 5.2.3
-	org.grails:grails-core 5.2.3
-	org.grails:grails-databinding 5.2.3
+	org.grails:grails-bootstrap 5.2.4
+	org.grails:grails-codecs 5.2.4
+	org.grails:grails-console 5.2.4
+	org.grails:grails-core 5.2.4
+	org.grails:grails-databinding 5.2.4
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -755,43 +755,43 @@ global - Default dependency management for all configurations
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.3
-	org.grails:grails-docs 5.2.3
-	org.grails:grails-encoder 5.2.3
+	org.grails:grails-dependencies 5.2.4
+	org.grails:grails-docs 5.2.4
+	org.grails:grails-encoder 5.2.4
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.3
-	org.grails:grails-logging 5.2.3
-	org.grails:grails-plugin-codecs 5.2.3
-	org.grails:grails-plugin-controllers 5.2.3
-	org.grails:grails-plugin-databinding 5.2.3
-	org.grails:grails-plugin-datasource 5.2.3
-	org.grails:grails-plugin-domain-class 5.2.3
-	org.grails:grails-plugin-i18n 5.2.3
-	org.grails:grails-plugin-interceptors 5.2.3
-	org.grails:grails-plugin-mimetypes 5.2.3
-	org.grails:grails-plugin-rest 5.2.3
-	org.grails:grails-plugin-services 5.2.3
-	org.grails:grails-plugin-url-mappings 5.2.3
-	org.grails:grails-plugin-validation 5.2.3
-	org.grails:grails-shell 5.2.3
-	org.grails:grails-spring 5.2.3
-	org.grails:grails-test 5.2.3
-	org.grails:grails-test-suite-base 5.2.3
-	org.grails:grails-test-suite-persistence 5.2.3
-	org.grails:grails-test-suite-uber 5.2.3
-	org.grails:grails-test-suite-web 5.2.3
+	org.grails:grails-gradle-model 5.2.4
+	org.grails:grails-logging 5.2.4
+	org.grails:grails-plugin-codecs 5.2.4
+	org.grails:grails-plugin-controllers 5.2.4
+	org.grails:grails-plugin-databinding 5.2.4
+	org.grails:grails-plugin-datasource 5.2.4
+	org.grails:grails-plugin-domain-class 5.2.4
+	org.grails:grails-plugin-i18n 5.2.4
+	org.grails:grails-plugin-interceptors 5.2.4
+	org.grails:grails-plugin-mimetypes 5.2.4
+	org.grails:grails-plugin-rest 5.2.4
+	org.grails:grails-plugin-services 5.2.4
+	org.grails:grails-plugin-url-mappings 5.2.4
+	org.grails:grails-plugin-validation 5.2.4
+	org.grails:grails-shell 5.2.4
+	org.grails:grails-spring 5.2.4
+	org.grails:grails-test 5.2.4
+	org.grails:grails-test-suite-base 5.2.4
+	org.grails:grails-test-suite-persistence 5.2.4
+	org.grails:grails-test-suite-uber 5.2.4
+	org.grails:grails-test-suite-web 5.2.4
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.3
-	org.grails:grails-web-boot 5.2.3
-	org.grails:grails-web-common 5.2.3
-	org.grails:grails-web-databinding 5.2.3
-	org.grails:grails-web-fileupload 5.2.3
-	org.grails:grails-web-mvc 5.2.3
+	org.grails:grails-web 5.2.4
+	org.grails:grails-web-boot 5.2.4
+	org.grails:grails-web-common 5.2.4
+	org.grails:grails-web-databinding 5.2.4
+	org.grails:grails-web-fileupload 5.2.4
+	org.grails:grails-web-mvc 5.2.4
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.3
+	org.grails:grails-web-url-mappings 5.2.4
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -984,10 +984,10 @@ global - Default dependency management for all configurations
 	org.mockito:mockito-junit-jupiter 4.5.1
 	org.mockito:mockito-proxy 4.5.1
 	org.mongodb:bson 4.6.0
-	org.mongodb:mongodb-driver-core 4.3.2
+	org.mongodb:mongodb-driver-core 4.5.0
 	org.mongodb:mongodb-driver-legacy 4.6.0
 	org.mongodb:mongodb-driver-reactivestreams 4.6.0
-	org.mongodb:mongodb-driver-sync 4.3.2
+	org.mongodb:mongodb-driver-sync 4.5.0
 	org.mortbay.jasper:apache-el 9.0.52
 	org.neo4j.driver:neo4j-java-driver 4.4.5
 	org.postgresql:postgresql 42.3.5
@@ -2000,11 +2000,11 @@ default - Dependency management for the default configuration
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.3
-	org.grails:grails-codecs 5.2.3
-	org.grails:grails-console 5.2.3
-	org.grails:grails-core 5.2.3
-	org.grails:grails-databinding 5.2.3
+	org.grails:grails-bootstrap 5.2.4
+	org.grails:grails-codecs 5.2.4
+	org.grails:grails-console 5.2.4
+	org.grails:grails-core 5.2.4
+	org.grails:grails-databinding 5.2.4
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -2015,43 +2015,43 @@ default - Dependency management for the default configuration
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.3
-	org.grails:grails-docs 5.2.3
-	org.grails:grails-encoder 5.2.3
+	org.grails:grails-dependencies 5.2.4
+	org.grails:grails-docs 5.2.4
+	org.grails:grails-encoder 5.2.4
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.3
-	org.grails:grails-logging 5.2.3
-	org.grails:grails-plugin-codecs 5.2.3
-	org.grails:grails-plugin-controllers 5.2.3
-	org.grails:grails-plugin-databinding 5.2.3
-	org.grails:grails-plugin-datasource 5.2.3
-	org.grails:grails-plugin-domain-class 5.2.3
-	org.grails:grails-plugin-i18n 5.2.3
-	org.grails:grails-plugin-interceptors 5.2.3
-	org.grails:grails-plugin-mimetypes 5.2.3
-	org.grails:grails-plugin-rest 5.2.3
-	org.grails:grails-plugin-services 5.2.3
-	org.grails:grails-plugin-url-mappings 5.2.3
-	org.grails:grails-plugin-validation 5.2.3
-	org.grails:grails-shell 5.2.3
-	org.grails:grails-spring 5.2.3
-	org.grails:grails-test 5.2.3
-	org.grails:grails-test-suite-base 5.2.3
-	org.grails:grails-test-suite-persistence 5.2.3
-	org.grails:grails-test-suite-uber 5.2.3
-	org.grails:grails-test-suite-web 5.2.3
+	org.grails:grails-gradle-model 5.2.4
+	org.grails:grails-logging 5.2.4
+	org.grails:grails-plugin-codecs 5.2.4
+	org.grails:grails-plugin-controllers 5.2.4
+	org.grails:grails-plugin-databinding 5.2.4
+	org.grails:grails-plugin-datasource 5.2.4
+	org.grails:grails-plugin-domain-class 5.2.4
+	org.grails:grails-plugin-i18n 5.2.4
+	org.grails:grails-plugin-interceptors 5.2.4
+	org.grails:grails-plugin-mimetypes 5.2.4
+	org.grails:grails-plugin-rest 5.2.4
+	org.grails:grails-plugin-services 5.2.4
+	org.grails:grails-plugin-url-mappings 5.2.4
+	org.grails:grails-plugin-validation 5.2.4
+	org.grails:grails-shell 5.2.4
+	org.grails:grails-spring 5.2.4
+	org.grails:grails-test 5.2.4
+	org.grails:grails-test-suite-base 5.2.4
+	org.grails:grails-test-suite-persistence 5.2.4
+	org.grails:grails-test-suite-uber 5.2.4
+	org.grails:grails-test-suite-web 5.2.4
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.3
-	org.grails:grails-web-boot 5.2.3
-	org.grails:grails-web-common 5.2.3
-	org.grails:grails-web-databinding 5.2.3
-	org.grails:grails-web-fileupload 5.2.3
-	org.grails:grails-web-mvc 5.2.3
+	org.grails:grails-web 5.2.4
+	org.grails:grails-web-boot 5.2.4
+	org.grails:grails-web-common 5.2.4
+	org.grails:grails-web-databinding 5.2.4
+	org.grails:grails-web-fileupload 5.2.4
+	org.grails:grails-web-mvc 5.2.4
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.3
+	org.grails:grails-web-url-mappings 5.2.4
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -2244,10 +2244,10 @@ default - Dependency management for the default configuration
 	org.mockito:mockito-junit-jupiter 4.5.1
 	org.mockito:mockito-proxy 4.5.1
 	org.mongodb:bson 4.6.0
-	org.mongodb:mongodb-driver-core 4.3.2
+	org.mongodb:mongodb-driver-core 4.5.0
 	org.mongodb:mongodb-driver-legacy 4.6.0
 	org.mongodb:mongodb-driver-reactivestreams 4.6.0
-	org.mongodb:mongodb-driver-sync 4.3.2
+	org.mongodb:mongodb-driver-sync 4.5.0
 	org.mortbay.jasper:apache-el 9.0.52
 	org.neo4j.driver:neo4j-java-driver 4.4.5
 	org.postgresql:postgresql 42.3.5
@@ -3254,11 +3254,11 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.3
-	org.grails:grails-codecs 5.2.3
-	org.grails:grails-console 5.2.3
-	org.grails:grails-core 5.2.3
-	org.grails:grails-databinding 5.2.3
+	org.grails:grails-bootstrap 5.2.4
+	org.grails:grails-codecs 5.2.4
+	org.grails:grails-console 5.2.4
+	org.grails:grails-core 5.2.4
+	org.grails:grails-databinding 5.2.4
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -3269,43 +3269,43 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.3
-	org.grails:grails-docs 5.2.3
-	org.grails:grails-encoder 5.2.3
+	org.grails:grails-dependencies 5.2.4
+	org.grails:grails-docs 5.2.4
+	org.grails:grails-encoder 5.2.4
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.3
-	org.grails:grails-logging 5.2.3
-	org.grails:grails-plugin-codecs 5.2.3
-	org.grails:grails-plugin-controllers 5.2.3
-	org.grails:grails-plugin-databinding 5.2.3
-	org.grails:grails-plugin-datasource 5.2.3
-	org.grails:grails-plugin-domain-class 5.2.3
-	org.grails:grails-plugin-i18n 5.2.3
-	org.grails:grails-plugin-interceptors 5.2.3
-	org.grails:grails-plugin-mimetypes 5.2.3
-	org.grails:grails-plugin-rest 5.2.3
-	org.grails:grails-plugin-services 5.2.3
-	org.grails:grails-plugin-url-mappings 5.2.3
-	org.grails:grails-plugin-validation 5.2.3
-	org.grails:grails-shell 5.2.3
-	org.grails:grails-spring 5.2.3
-	org.grails:grails-test 5.2.3
-	org.grails:grails-test-suite-base 5.2.3
-	org.grails:grails-test-suite-persistence 5.2.3
-	org.grails:grails-test-suite-uber 5.2.3
-	org.grails:grails-test-suite-web 5.2.3
+	org.grails:grails-gradle-model 5.2.4
+	org.grails:grails-logging 5.2.4
+	org.grails:grails-plugin-codecs 5.2.4
+	org.grails:grails-plugin-controllers 5.2.4
+	org.grails:grails-plugin-databinding 5.2.4
+	org.grails:grails-plugin-datasource 5.2.4
+	org.grails:grails-plugin-domain-class 5.2.4
+	org.grails:grails-plugin-i18n 5.2.4
+	org.grails:grails-plugin-interceptors 5.2.4
+	org.grails:grails-plugin-mimetypes 5.2.4
+	org.grails:grails-plugin-rest 5.2.4
+	org.grails:grails-plugin-services 5.2.4
+	org.grails:grails-plugin-url-mappings 5.2.4
+	org.grails:grails-plugin-validation 5.2.4
+	org.grails:grails-shell 5.2.4
+	org.grails:grails-spring 5.2.4
+	org.grails:grails-test 5.2.4
+	org.grails:grails-test-suite-base 5.2.4
+	org.grails:grails-test-suite-persistence 5.2.4
+	org.grails:grails-test-suite-uber 5.2.4
+	org.grails:grails-test-suite-web 5.2.4
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.3
-	org.grails:grails-web-boot 5.2.3
-	org.grails:grails-web-common 5.2.3
-	org.grails:grails-web-databinding 5.2.3
-	org.grails:grails-web-fileupload 5.2.3
-	org.grails:grails-web-mvc 5.2.3
+	org.grails:grails-web 5.2.4
+	org.grails:grails-web-boot 5.2.4
+	org.grails:grails-web-common 5.2.4
+	org.grails:grails-web-databinding 5.2.4
+	org.grails:grails-web-fileupload 5.2.4
+	org.grails:grails-web-mvc 5.2.4
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.3
+	org.grails:grails-web-url-mappings 5.2.4
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -3498,10 +3498,10 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
 	org.mockito:mockito-junit-jupiter 4.5.1
 	org.mockito:mockito-proxy 4.5.1
 	org.mongodb:bson 4.6.0
-	org.mongodb:mongodb-driver-core 4.3.2
+	org.mongodb:mongodb-driver-core 4.5.0
 	org.mongodb:mongodb-driver-legacy 4.6.0
 	org.mongodb:mongodb-driver-reactivestreams 4.6.0
-	org.mongodb:mongodb-driver-sync 4.3.2
+	org.mongodb:mongodb-driver-sync 4.5.0
 	org.mortbay.jasper:apache-el 9.0.52
 	org.neo4j.driver:neo4j-java-driver 4.4.5
 	org.postgresql:postgresql 42.3.5
@@ -4487,11 +4487,11 @@ integrationTestRuntimeOnly - Dependency management for the integrationTestRuntim
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.3
-	org.grails:grails-codecs 5.2.3
-	org.grails:grails-console 5.2.3
-	org.grails:grails-core 5.2.3
-	org.grails:grails-databinding 5.2.3
+	org.grails:grails-bootstrap 5.2.4
+	org.grails:grails-codecs 5.2.4
+	org.grails:grails-console 5.2.4
+	org.grails:grails-core 5.2.4
+	org.grails:grails-databinding 5.2.4
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -4502,43 +4502,43 @@ integrationTestRuntimeOnly - Dependency management for the integrationTestRuntim
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.3
-	org.grails:grails-docs 5.2.3
-	org.grails:grails-encoder 5.2.3
+	org.grails:grails-dependencies 5.2.4
+	org.grails:grails-docs 5.2.4
+	org.grails:grails-encoder 5.2.4
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.3
-	org.grails:grails-logging 5.2.3
-	org.grails:grails-plugin-codecs 5.2.3
-	org.grails:grails-plugin-controllers 5.2.3
-	org.grails:grails-plugin-databinding 5.2.3
-	org.grails:grails-plugin-datasource 5.2.3
-	org.grails:grails-plugin-domain-class 5.2.3
-	org.grails:grails-plugin-i18n 5.2.3
-	org.grails:grails-plugin-interceptors 5.2.3
-	org.grails:grails-plugin-mimetypes 5.2.3
-	org.grails:grails-plugin-rest 5.2.3
-	org.grails:grails-plugin-services 5.2.3
-	org.grails:grails-plugin-url-mappings 5.2.3
-	org.grails:grails-plugin-validation 5.2.3
-	org.grails:grails-shell 5.2.3
-	org.grails:grails-spring 5.2.3
-	org.grails:grails-test 5.2.3
-	org.grails:grails-test-suite-base 5.2.3
-	org.grails:grails-test-suite-persistence 5.2.3
-	org.grails:grails-test-suite-uber 5.2.3
-	org.grails:grails-test-suite-web 5.2.3
+	org.grails:grails-gradle-model 5.2.4
+	org.grails:grails-logging 5.2.4
+	org.grails:grails-plugin-codecs 5.2.4
+	org.grails:grails-plugin-controllers 5.2.4
+	org.grails:grails-plugin-databinding 5.2.4
+	org.grails:grails-plugin-datasource 5.2.4
+	org.grails:grails-plugin-domain-class 5.2.4
+	org.grails:grails-plugin-i18n 5.2.4
+	org.grails:grails-plugin-interceptors 5.2.4
+	org.grails:grails-plugin-mimetypes 5.2.4
+	org.grails:grails-plugin-rest 5.2.4
+	org.grails:grails-plugin-services 5.2.4
+	org.grails:grails-plugin-url-mappings 5.2.4
+	org.grails:grails-plugin-validation 5.2.4
+	org.grails:grails-shell 5.2.4
+	org.grails:grails-spring 5.2.4
+	org.grails:grails-test 5.2.4
+	org.grails:grails-test-suite-base 5.2.4
+	org.grails:grails-test-suite-persistence 5.2.4
+	org.grails:grails-test-suite-uber 5.2.4
+	org.grails:grails-test-suite-web 5.2.4
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.3
-	org.grails:grails-web-boot 5.2.3
-	org.grails:grails-web-common 5.2.3
-	org.grails:grails-web-databinding 5.2.3
-	org.grails:grails-web-fileupload 5.2.3
-	org.grails:grails-web-mvc 5.2.3
+	org.grails:grails-web 5.2.4
+	org.grails:grails-web-boot 5.2.4
+	org.grails:grails-web-common 5.2.4
+	org.grails:grails-web-databinding 5.2.4
+	org.grails:grails-web-fileupload 5.2.4
+	org.grails:grails-web-mvc 5.2.4
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.3
+	org.grails:grails-web-url-mappings 5.2.4
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -4731,10 +4731,10 @@ integrationTestRuntimeOnly - Dependency management for the integrationTestRuntim
 	org.mockito:mockito-junit-jupiter 4.5.1
 	org.mockito:mockito-proxy 4.5.1
 	org.mongodb:bson 4.6.0
-	org.mongodb:mongodb-driver-core 4.3.2
+	org.mongodb:mongodb-driver-core 4.5.0
 	org.mongodb:mongodb-driver-legacy 4.6.0
 	org.mongodb:mongodb-driver-reactivestreams 4.6.0
-	org.mongodb:mongodb-driver-sync 4.3.2
+	org.mongodb:mongodb-driver-sync 4.5.0
 	org.mortbay.jasper:apache-el 9.0.52
 	org.neo4j.driver:neo4j-java-driver 4.4.5
 	org.postgresql:postgresql 42.3.5
@@ -5720,11 +5720,11 @@ productionRuntimeClasspath - Dependency management for the productionRuntimeClas
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.3
-	org.grails:grails-codecs 5.2.3
-	org.grails:grails-console 5.2.3
-	org.grails:grails-core 5.2.3
-	org.grails:grails-databinding 5.2.3
+	org.grails:grails-bootstrap 5.2.4
+	org.grails:grails-codecs 5.2.4
+	org.grails:grails-console 5.2.4
+	org.grails:grails-core 5.2.4
+	org.grails:grails-databinding 5.2.4
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -5735,43 +5735,43 @@ productionRuntimeClasspath - Dependency management for the productionRuntimeClas
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.3
-	org.grails:grails-docs 5.2.3
-	org.grails:grails-encoder 5.2.3
+	org.grails:grails-dependencies 5.2.4
+	org.grails:grails-docs 5.2.4
+	org.grails:grails-encoder 5.2.4
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.3
-	org.grails:grails-logging 5.2.3
-	org.grails:grails-plugin-codecs 5.2.3
-	org.grails:grails-plugin-controllers 5.2.3
-	org.grails:grails-plugin-databinding 5.2.3
-	org.grails:grails-plugin-datasource 5.2.3
-	org.grails:grails-plugin-domain-class 5.2.3
-	org.grails:grails-plugin-i18n 5.2.3
-	org.grails:grails-plugin-interceptors 5.2.3
-	org.grails:grails-plugin-mimetypes 5.2.3
-	org.grails:grails-plugin-rest 5.2.3
-	org.grails:grails-plugin-services 5.2.3
-	org.grails:grails-plugin-url-mappings 5.2.3
-	org.grails:grails-plugin-validation 5.2.3
-	org.grails:grails-shell 5.2.3
-	org.grails:grails-spring 5.2.3
-	org.grails:grails-test 5.2.3
-	org.grails:grails-test-suite-base 5.2.3
-	org.grails:grails-test-suite-persistence 5.2.3
-	org.grails:grails-test-suite-uber 5.2.3
-	org.grails:grails-test-suite-web 5.2.3
+	org.grails:grails-gradle-model 5.2.4
+	org.grails:grails-logging 5.2.4
+	org.grails:grails-plugin-codecs 5.2.4
+	org.grails:grails-plugin-controllers 5.2.4
+	org.grails:grails-plugin-databinding 5.2.4
+	org.grails:grails-plugin-datasource 5.2.4
+	org.grails:grails-plugin-domain-class 5.2.4
+	org.grails:grails-plugin-i18n 5.2.4
+	org.grails:grails-plugin-interceptors 5.2.4
+	org.grails:grails-plugin-mimetypes 5.2.4
+	org.grails:grails-plugin-rest 5.2.4
+	org.grails:grails-plugin-services 5.2.4
+	org.grails:grails-plugin-url-mappings 5.2.4
+	org.grails:grails-plugin-validation 5.2.4
+	org.grails:grails-shell 5.2.4
+	org.grails:grails-spring 5.2.4
+	org.grails:grails-test 5.2.4
+	org.grails:grails-test-suite-base 5.2.4
+	org.grails:grails-test-suite-persistence 5.2.4
+	org.grails:grails-test-suite-uber 5.2.4
+	org.grails:grails-test-suite-web 5.2.4
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.3
-	org.grails:grails-web-boot 5.2.3
-	org.grails:grails-web-common 5.2.3
-	org.grails:grails-web-databinding 5.2.3
-	org.grails:grails-web-fileupload 5.2.3
-	org.grails:grails-web-mvc 5.2.3
+	org.grails:grails-web 5.2.4
+	org.grails:grails-web-boot 5.2.4
+	org.grails:grails-web-common 5.2.4
+	org.grails:grails-web-databinding 5.2.4
+	org.grails:grails-web-fileupload 5.2.4
+	org.grails:grails-web-mvc 5.2.4
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.3
+	org.grails:grails-web-url-mappings 5.2.4
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -5964,10 +5964,10 @@ productionRuntimeClasspath - Dependency management for the productionRuntimeClas
 	org.mockito:mockito-junit-jupiter 4.5.1
 	org.mockito:mockito-proxy 4.5.1
 	org.mongodb:bson 4.6.0
-	org.mongodb:mongodb-driver-core 4.3.2
+	org.mongodb:mongodb-driver-core 4.5.0
 	org.mongodb:mongodb-driver-legacy 4.6.0
 	org.mongodb:mongodb-driver-reactivestreams 4.6.0
-	org.mongodb:mongodb-driver-sync 4.3.2
+	org.mongodb:mongodb-driver-sync 4.5.0
 	org.mortbay.jasper:apache-el 9.0.52
 	org.neo4j.driver:neo4j-java-driver 4.4.5
 	org.postgresql:postgresql 42.3.5
@@ -6962,11 +6962,11 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.3
-	org.grails:grails-codecs 5.2.3
-	org.grails:grails-console 5.2.3
-	org.grails:grails-core 5.2.3
-	org.grails:grails-databinding 5.2.3
+	org.grails:grails-bootstrap 5.2.4
+	org.grails:grails-codecs 5.2.4
+	org.grails:grails-console 5.2.4
+	org.grails:grails-core 5.2.4
+	org.grails:grails-databinding 5.2.4
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -6977,43 +6977,43 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.3
-	org.grails:grails-docs 5.2.3
-	org.grails:grails-encoder 5.2.3
+	org.grails:grails-dependencies 5.2.4
+	org.grails:grails-docs 5.2.4
+	org.grails:grails-encoder 5.2.4
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.3
-	org.grails:grails-logging 5.2.3
-	org.grails:grails-plugin-codecs 5.2.3
-	org.grails:grails-plugin-controllers 5.2.3
-	org.grails:grails-plugin-databinding 5.2.3
-	org.grails:grails-plugin-datasource 5.2.3
-	org.grails:grails-plugin-domain-class 5.2.3
-	org.grails:grails-plugin-i18n 5.2.3
-	org.grails:grails-plugin-interceptors 5.2.3
-	org.grails:grails-plugin-mimetypes 5.2.3
-	org.grails:grails-plugin-rest 5.2.3
-	org.grails:grails-plugin-services 5.2.3
-	org.grails:grails-plugin-url-mappings 5.2.3
-	org.grails:grails-plugin-validation 5.2.3
-	org.grails:grails-shell 5.2.3
-	org.grails:grails-spring 5.2.3
-	org.grails:grails-test 5.2.3
-	org.grails:grails-test-suite-base 5.2.3
-	org.grails:grails-test-suite-persistence 5.2.3
-	org.grails:grails-test-suite-uber 5.2.3
-	org.grails:grails-test-suite-web 5.2.3
+	org.grails:grails-gradle-model 5.2.4
+	org.grails:grails-logging 5.2.4
+	org.grails:grails-plugin-codecs 5.2.4
+	org.grails:grails-plugin-controllers 5.2.4
+	org.grails:grails-plugin-databinding 5.2.4
+	org.grails:grails-plugin-datasource 5.2.4
+	org.grails:grails-plugin-domain-class 5.2.4
+	org.grails:grails-plugin-i18n 5.2.4
+	org.grails:grails-plugin-interceptors 5.2.4
+	org.grails:grails-plugin-mimetypes 5.2.4
+	org.grails:grails-plugin-rest 5.2.4
+	org.grails:grails-plugin-services 5.2.4
+	org.grails:grails-plugin-url-mappings 5.2.4
+	org.grails:grails-plugin-validation 5.2.4
+	org.grails:grails-shell 5.2.4
+	org.grails:grails-spring 5.2.4
+	org.grails:grails-test 5.2.4
+	org.grails:grails-test-suite-base 5.2.4
+	org.grails:grails-test-suite-persistence 5.2.4
+	org.grails:grails-test-suite-uber 5.2.4
+	org.grails:grails-test-suite-web 5.2.4
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.3
-	org.grails:grails-web-boot 5.2.3
-	org.grails:grails-web-common 5.2.3
-	org.grails:grails-web-databinding 5.2.3
-	org.grails:grails-web-fileupload 5.2.3
-	org.grails:grails-web-mvc 5.2.3
+	org.grails:grails-web 5.2.4
+	org.grails:grails-web-boot 5.2.4
+	org.grails:grails-web-common 5.2.4
+	org.grails:grails-web-databinding 5.2.4
+	org.grails:grails-web-fileupload 5.2.4
+	org.grails:grails-web-mvc 5.2.4
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.3
+	org.grails:grails-web-url-mappings 5.2.4
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -7206,10 +7206,10 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
 	org.mockito:mockito-junit-jupiter 4.5.1
 	org.mockito:mockito-proxy 4.5.1
 	org.mongodb:bson 4.6.0
-	org.mongodb:mongodb-driver-core 4.3.2
+	org.mongodb:mongodb-driver-core 4.5.0
 	org.mongodb:mongodb-driver-legacy 4.6.0
 	org.mongodb:mongodb-driver-reactivestreams 4.6.0
-	org.mongodb:mongodb-driver-sync 4.3.2
+	org.mongodb:mongodb-driver-sync 4.5.0
 	org.mortbay.jasper:apache-el 9.0.52
 	org.neo4j.driver:neo4j-java-driver 4.4.5
 	org.postgresql:postgresql 42.3.5
@@ -8195,11 +8195,11 @@ runtimeElements - Dependency management for the runtimeElements configuration
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.3
-	org.grails:grails-codecs 5.2.3
-	org.grails:grails-console 5.2.3
-	org.grails:grails-core 5.2.3
-	org.grails:grails-databinding 5.2.3
+	org.grails:grails-bootstrap 5.2.4
+	org.grails:grails-codecs 5.2.4
+	org.grails:grails-console 5.2.4
+	org.grails:grails-core 5.2.4
+	org.grails:grails-databinding 5.2.4
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -8210,43 +8210,43 @@ runtimeElements - Dependency management for the runtimeElements configuration
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.3
-	org.grails:grails-docs 5.2.3
-	org.grails:grails-encoder 5.2.3
+	org.grails:grails-dependencies 5.2.4
+	org.grails:grails-docs 5.2.4
+	org.grails:grails-encoder 5.2.4
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.3
-	org.grails:grails-logging 5.2.3
-	org.grails:grails-plugin-codecs 5.2.3
-	org.grails:grails-plugin-controllers 5.2.3
-	org.grails:grails-plugin-databinding 5.2.3
-	org.grails:grails-plugin-datasource 5.2.3
-	org.grails:grails-plugin-domain-class 5.2.3
-	org.grails:grails-plugin-i18n 5.2.3
-	org.grails:grails-plugin-interceptors 5.2.3
-	org.grails:grails-plugin-mimetypes 5.2.3
-	org.grails:grails-plugin-rest 5.2.3
-	org.grails:grails-plugin-services 5.2.3
-	org.grails:grails-plugin-url-mappings 5.2.3
-	org.grails:grails-plugin-validation 5.2.3
-	org.grails:grails-shell 5.2.3
-	org.grails:grails-spring 5.2.3
-	org.grails:grails-test 5.2.3
-	org.grails:grails-test-suite-base 5.2.3
-	org.grails:grails-test-suite-persistence 5.2.3
-	org.grails:grails-test-suite-uber 5.2.3
-	org.grails:grails-test-suite-web 5.2.3
+	org.grails:grails-gradle-model 5.2.4
+	org.grails:grails-logging 5.2.4
+	org.grails:grails-plugin-codecs 5.2.4
+	org.grails:grails-plugin-controllers 5.2.4
+	org.grails:grails-plugin-databinding 5.2.4
+	org.grails:grails-plugin-datasource 5.2.4
+	org.grails:grails-plugin-domain-class 5.2.4
+	org.grails:grails-plugin-i18n 5.2.4
+	org.grails:grails-plugin-interceptors 5.2.4
+	org.grails:grails-plugin-mimetypes 5.2.4
+	org.grails:grails-plugin-rest 5.2.4
+	org.grails:grails-plugin-services 5.2.4
+	org.grails:grails-plugin-url-mappings 5.2.4
+	org.grails:grails-plugin-validation 5.2.4
+	org.grails:grails-shell 5.2.4
+	org.grails:grails-spring 5.2.4
+	org.grails:grails-test 5.2.4
+	org.grails:grails-test-suite-base 5.2.4
+	org.grails:grails-test-suite-persistence 5.2.4
+	org.grails:grails-test-suite-uber 5.2.4
+	org.grails:grails-test-suite-web 5.2.4
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.3
-	org.grails:grails-web-boot 5.2.3
-	org.grails:grails-web-common 5.2.3
-	org.grails:grails-web-databinding 5.2.3
-	org.grails:grails-web-fileupload 5.2.3
-	org.grails:grails-web-mvc 5.2.3
+	org.grails:grails-web 5.2.4
+	org.grails:grails-web-boot 5.2.4
+	org.grails:grails-web-common 5.2.4
+	org.grails:grails-web-databinding 5.2.4
+	org.grails:grails-web-fileupload 5.2.4
+	org.grails:grails-web-mvc 5.2.4
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.3
+	org.grails:grails-web-url-mappings 5.2.4
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -8439,10 +8439,10 @@ runtimeElements - Dependency management for the runtimeElements configuration
 	org.mockito:mockito-junit-jupiter 4.5.1
 	org.mockito:mockito-proxy 4.5.1
 	org.mongodb:bson 4.6.0
-	org.mongodb:mongodb-driver-core 4.3.2
+	org.mongodb:mongodb-driver-core 4.5.0
 	org.mongodb:mongodb-driver-legacy 4.6.0
 	org.mongodb:mongodb-driver-reactivestreams 4.6.0
-	org.mongodb:mongodb-driver-sync 4.3.2
+	org.mongodb:mongodb-driver-sync 4.5.0
 	org.mortbay.jasper:apache-el 9.0.52
 	org.neo4j.driver:neo4j-java-driver 4.4.5
 	org.postgresql:postgresql 42.3.5
@@ -9428,11 +9428,11 @@ runtimeOnly - Dependency management for the runtimeOnly configuration
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.3
-	org.grails:grails-codecs 5.2.3
-	org.grails:grails-console 5.2.3
-	org.grails:grails-core 5.2.3
-	org.grails:grails-databinding 5.2.3
+	org.grails:grails-bootstrap 5.2.4
+	org.grails:grails-codecs 5.2.4
+	org.grails:grails-console 5.2.4
+	org.grails:grails-core 5.2.4
+	org.grails:grails-databinding 5.2.4
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -9443,43 +9443,43 @@ runtimeOnly - Dependency management for the runtimeOnly configuration
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.3
-	org.grails:grails-docs 5.2.3
-	org.grails:grails-encoder 5.2.3
+	org.grails:grails-dependencies 5.2.4
+	org.grails:grails-docs 5.2.4
+	org.grails:grails-encoder 5.2.4
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.3
-	org.grails:grails-logging 5.2.3
-	org.grails:grails-plugin-codecs 5.2.3
-	org.grails:grails-plugin-controllers 5.2.3
-	org.grails:grails-plugin-databinding 5.2.3
-	org.grails:grails-plugin-datasource 5.2.3
-	org.grails:grails-plugin-domain-class 5.2.3
-	org.grails:grails-plugin-i18n 5.2.3
-	org.grails:grails-plugin-interceptors 5.2.3
-	org.grails:grails-plugin-mimetypes 5.2.3
-	org.grails:grails-plugin-rest 5.2.3
-	org.grails:grails-plugin-services 5.2.3
-	org.grails:grails-plugin-url-mappings 5.2.3
-	org.grails:grails-plugin-validation 5.2.3
-	org.grails:grails-shell 5.2.3
-	org.grails:grails-spring 5.2.3
-	org.grails:grails-test 5.2.3
-	org.grails:grails-test-suite-base 5.2.3
-	org.grails:grails-test-suite-persistence 5.2.3
-	org.grails:grails-test-suite-uber 5.2.3
-	org.grails:grails-test-suite-web 5.2.3
+	org.grails:grails-gradle-model 5.2.4
+	org.grails:grails-logging 5.2.4
+	org.grails:grails-plugin-codecs 5.2.4
+	org.grails:grails-plugin-controllers 5.2.4
+	org.grails:grails-plugin-databinding 5.2.4
+	org.grails:grails-plugin-datasource 5.2.4
+	org.grails:grails-plugin-domain-class 5.2.4
+	org.grails:grails-plugin-i18n 5.2.4
+	org.grails:grails-plugin-interceptors 5.2.4
+	org.grails:grails-plugin-mimetypes 5.2.4
+	org.grails:grails-plugin-rest 5.2.4
+	org.grails:grails-plugin-services 5.2.4
+	org.grails:grails-plugin-url-mappings 5.2.4
+	org.grails:grails-plugin-validation 5.2.4
+	org.grails:grails-shell 5.2.4
+	org.grails:grails-spring 5.2.4
+	org.grails:grails-test 5.2.4
+	org.grails:grails-test-suite-base 5.2.4
+	org.grails:grails-test-suite-persistence 5.2.4
+	org.grails:grails-test-suite-uber 5.2.4
+	org.grails:grails-test-suite-web 5.2.4
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.3
-	org.grails:grails-web-boot 5.2.3
-	org.grails:grails-web-common 5.2.3
-	org.grails:grails-web-databinding 5.2.3
-	org.grails:grails-web-fileupload 5.2.3
-	org.grails:grails-web-mvc 5.2.3
+	org.grails:grails-web 5.2.4
+	org.grails:grails-web-boot 5.2.4
+	org.grails:grails-web-common 5.2.4
+	org.grails:grails-web-databinding 5.2.4
+	org.grails:grails-web-fileupload 5.2.4
+	org.grails:grails-web-mvc 5.2.4
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.3
+	org.grails:grails-web-url-mappings 5.2.4
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -9672,10 +9672,10 @@ runtimeOnly - Dependency management for the runtimeOnly configuration
 	org.mockito:mockito-junit-jupiter 4.5.1
 	org.mockito:mockito-proxy 4.5.1
 	org.mongodb:bson 4.6.0
-	org.mongodb:mongodb-driver-core 4.3.2
+	org.mongodb:mongodb-driver-core 4.5.0
 	org.mongodb:mongodb-driver-legacy 4.6.0
 	org.mongodb:mongodb-driver-reactivestreams 4.6.0
-	org.mongodb:mongodb-driver-sync 4.3.2
+	org.mongodb:mongodb-driver-sync 4.5.0
 	org.mortbay.jasper:apache-el 9.0.52
 	org.neo4j.driver:neo4j-java-driver 4.4.5
 	org.postgresql:postgresql 42.3.5
@@ -10673,11 +10673,11 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.3
-	org.grails:grails-codecs 5.2.3
-	org.grails:grails-console 5.2.3
-	org.grails:grails-core 5.2.3
-	org.grails:grails-databinding 5.2.3
+	org.grails:grails-bootstrap 5.2.4
+	org.grails:grails-codecs 5.2.4
+	org.grails:grails-console 5.2.4
+	org.grails:grails-core 5.2.4
+	org.grails:grails-databinding 5.2.4
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -10688,43 +10688,43 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.3
-	org.grails:grails-docs 5.2.3
-	org.grails:grails-encoder 5.2.3
+	org.grails:grails-dependencies 5.2.4
+	org.grails:grails-docs 5.2.4
+	org.grails:grails-encoder 5.2.4
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.3
-	org.grails:grails-logging 5.2.3
-	org.grails:grails-plugin-codecs 5.2.3
-	org.grails:grails-plugin-controllers 5.2.3
-	org.grails:grails-plugin-databinding 5.2.3
-	org.grails:grails-plugin-datasource 5.2.3
-	org.grails:grails-plugin-domain-class 5.2.3
-	org.grails:grails-plugin-i18n 5.2.3
-	org.grails:grails-plugin-interceptors 5.2.3
-	org.grails:grails-plugin-mimetypes 5.2.3
-	org.grails:grails-plugin-rest 5.2.3
-	org.grails:grails-plugin-services 5.2.3
-	org.grails:grails-plugin-url-mappings 5.2.3
-	org.grails:grails-plugin-validation 5.2.3
-	org.grails:grails-shell 5.2.3
-	org.grails:grails-spring 5.2.3
-	org.grails:grails-test 5.2.3
-	org.grails:grails-test-suite-base 5.2.3
-	org.grails:grails-test-suite-persistence 5.2.3
-	org.grails:grails-test-suite-uber 5.2.3
-	org.grails:grails-test-suite-web 5.2.3
+	org.grails:grails-gradle-model 5.2.4
+	org.grails:grails-logging 5.2.4
+	org.grails:grails-plugin-codecs 5.2.4
+	org.grails:grails-plugin-controllers 5.2.4
+	org.grails:grails-plugin-databinding 5.2.4
+	org.grails:grails-plugin-datasource 5.2.4
+	org.grails:grails-plugin-domain-class 5.2.4
+	org.grails:grails-plugin-i18n 5.2.4
+	org.grails:grails-plugin-interceptors 5.2.4
+	org.grails:grails-plugin-mimetypes 5.2.4
+	org.grails:grails-plugin-rest 5.2.4
+	org.grails:grails-plugin-services 5.2.4
+	org.grails:grails-plugin-url-mappings 5.2.4
+	org.grails:grails-plugin-validation 5.2.4
+	org.grails:grails-shell 5.2.4
+	org.grails:grails-spring 5.2.4
+	org.grails:grails-test 5.2.4
+	org.grails:grails-test-suite-base 5.2.4
+	org.grails:grails-test-suite-persistence 5.2.4
+	org.grails:grails-test-suite-uber 5.2.4
+	org.grails:grails-test-suite-web 5.2.4
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.3
-	org.grails:grails-web-boot 5.2.3
-	org.grails:grails-web-common 5.2.3
-	org.grails:grails-web-databinding 5.2.3
-	org.grails:grails-web-fileupload 5.2.3
-	org.grails:grails-web-mvc 5.2.3
+	org.grails:grails-web 5.2.4
+	org.grails:grails-web-boot 5.2.4
+	org.grails:grails-web-common 5.2.4
+	org.grails:grails-web-databinding 5.2.4
+	org.grails:grails-web-fileupload 5.2.4
+	org.grails:grails-web-mvc 5.2.4
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.3
+	org.grails:grails-web-url-mappings 5.2.4
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -10917,10 +10917,10 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
 	org.mockito:mockito-junit-jupiter 4.5.1
 	org.mockito:mockito-proxy 4.5.1
 	org.mongodb:bson 4.6.0
-	org.mongodb:mongodb-driver-core 4.3.2
+	org.mongodb:mongodb-driver-core 4.5.0
 	org.mongodb:mongodb-driver-legacy 4.6.0
 	org.mongodb:mongodb-driver-reactivestreams 4.6.0
-	org.mongodb:mongodb-driver-sync 4.3.2
+	org.mongodb:mongodb-driver-sync 4.5.0
 	org.mortbay.jasper:apache-el 9.0.52
 	org.neo4j.driver:neo4j-java-driver 4.4.5
 	org.postgresql:postgresql 42.3.5
@@ -11906,11 +11906,11 @@ testRuntimeOnly - Dependency management for the testRuntimeOnly configuration
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.3
-	org.grails:grails-codecs 5.2.3
-	org.grails:grails-console 5.2.3
-	org.grails:grails-core 5.2.3
-	org.grails:grails-databinding 5.2.3
+	org.grails:grails-bootstrap 5.2.4
+	org.grails:grails-codecs 5.2.4
+	org.grails:grails-console 5.2.4
+	org.grails:grails-core 5.2.4
+	org.grails:grails-databinding 5.2.4
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -11921,43 +11921,43 @@ testRuntimeOnly - Dependency management for the testRuntimeOnly configuration
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.3
-	org.grails:grails-docs 5.2.3
-	org.grails:grails-encoder 5.2.3
+	org.grails:grails-dependencies 5.2.4
+	org.grails:grails-docs 5.2.4
+	org.grails:grails-encoder 5.2.4
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.3
-	org.grails:grails-logging 5.2.3
-	org.grails:grails-plugin-codecs 5.2.3
-	org.grails:grails-plugin-controllers 5.2.3
-	org.grails:grails-plugin-databinding 5.2.3
-	org.grails:grails-plugin-datasource 5.2.3
-	org.grails:grails-plugin-domain-class 5.2.3
-	org.grails:grails-plugin-i18n 5.2.3
-	org.grails:grails-plugin-interceptors 5.2.3
-	org.grails:grails-plugin-mimetypes 5.2.3
-	org.grails:grails-plugin-rest 5.2.3
-	org.grails:grails-plugin-services 5.2.3
-	org.grails:grails-plugin-url-mappings 5.2.3
-	org.grails:grails-plugin-validation 5.2.3
-	org.grails:grails-shell 5.2.3
-	org.grails:grails-spring 5.2.3
-	org.grails:grails-test 5.2.3
-	org.grails:grails-test-suite-base 5.2.3
-	org.grails:grails-test-suite-persistence 5.2.3
-	org.grails:grails-test-suite-uber 5.2.3
-	org.grails:grails-test-suite-web 5.2.3
+	org.grails:grails-gradle-model 5.2.4
+	org.grails:grails-logging 5.2.4
+	org.grails:grails-plugin-codecs 5.2.4
+	org.grails:grails-plugin-controllers 5.2.4
+	org.grails:grails-plugin-databinding 5.2.4
+	org.grails:grails-plugin-datasource 5.2.4
+	org.grails:grails-plugin-domain-class 5.2.4
+	org.grails:grails-plugin-i18n 5.2.4
+	org.grails:grails-plugin-interceptors 5.2.4
+	org.grails:grails-plugin-mimetypes 5.2.4
+	org.grails:grails-plugin-rest 5.2.4
+	org.grails:grails-plugin-services 5.2.4
+	org.grails:grails-plugin-url-mappings 5.2.4
+	org.grails:grails-plugin-validation 5.2.4
+	org.grails:grails-shell 5.2.4
+	org.grails:grails-spring 5.2.4
+	org.grails:grails-test 5.2.4
+	org.grails:grails-test-suite-base 5.2.4
+	org.grails:grails-test-suite-persistence 5.2.4
+	org.grails:grails-test-suite-uber 5.2.4
+	org.grails:grails-test-suite-web 5.2.4
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.3
-	org.grails:grails-web-boot 5.2.3
-	org.grails:grails-web-common 5.2.3
-	org.grails:grails-web-databinding 5.2.3
-	org.grails:grails-web-fileupload 5.2.3
-	org.grails:grails-web-mvc 5.2.3
+	org.grails:grails-web 5.2.4
+	org.grails:grails-web-boot 5.2.4
+	org.grails:grails-web-common 5.2.4
+	org.grails:grails-web-databinding 5.2.4
+	org.grails:grails-web-fileupload 5.2.4
+	org.grails:grails-web-mvc 5.2.4
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.3
+	org.grails:grails-web-url-mappings 5.2.4
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -12150,10 +12150,10 @@ testRuntimeOnly - Dependency management for the testRuntimeOnly configuration
 	org.mockito:mockito-junit-jupiter 4.5.1
 	org.mockito:mockito-proxy 4.5.1
 	org.mongodb:bson 4.6.0
-	org.mongodb:mongodb-driver-core 4.3.2
+	org.mongodb:mongodb-driver-core 4.5.0
 	org.mongodb:mongodb-driver-legacy 4.6.0
 	org.mongodb:mongodb-driver-reactivestreams 4.6.0
-	org.mongodb:mongodb-driver-sync 4.3.2
+	org.mongodb:mongodb-driver-sync 4.5.0
 	org.mortbay.jasper:apache-el 9.0.52
 	org.neo4j.driver:neo4j-java-driver 4.4.5
 	org.postgresql:postgresql 42.3.5
@@ -12411,5 +12411,5 @@ You can use '--warning-mode all' to show the individual deprecation warnings and
 
 See https://docs.gradle.org/7.2/userguide/command_line_interface.html#sec:command_line_warnings
 
-BUILD SUCCESSFUL in 14s
+BUILD SUCCESSFUL in 12s
 1 actionable task: 1 executed
