@@ -30,5 +30,3 @@ done
 git commit -a -m "Cleanup"
 git push origin master -f
 git push origin --tags -f
-
-ls -l ~/.sdkman/archives/
