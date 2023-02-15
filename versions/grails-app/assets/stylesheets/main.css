@@ -101,9 +101,7 @@ img {
     color: #ffffff;
     clear: both;
     font-size: 1em;
-    margin-top: 1.5em;
-    padding: 1em;
-    padding-bottom: 2em;
+    padding: 2em 0;
     min-height: 1em;
 }
 
