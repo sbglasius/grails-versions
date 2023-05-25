@@ -2,19 +2,8 @@ info:
   app:
     name: versions
     version: '0.1'
-    grailsVersion: 6.0.0-SNAPSHOT
+    grailsVersion: 6.0.0-RC1
 grails:
-  views:
-    default:
-      codec: html
-    gsp:
-      encoding: UTF-8
-      htmlcodec: xml
-      codecs:
-        expression: html
-        scriptlet: html
-        taglib: none
-        staticparts: none
   mime:
     disable:
       accept:
@@ -47,6 +36,17 @@ grails:
       xml:
       - text/xml
       - application/xml
+  views:
+    gsp:
+      encoding: UTF-8
+      htmlcodec: xml
+      codecs:
+        expression: html
+        scriptlet: html
+        taglib: none
+        staticparts: none
+    default:
+      codec: html
   gorm:
     reactor:
       events: false
