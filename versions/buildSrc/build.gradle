@@ -4,6 +4,6 @@ repositories {
 }
 dependencies {
     implementation("com.bertramlabs.plugins:asset-pipeline-gradle:3.4.7")
-    implementation("org.grails:grails-gradle-plugin:6.0.0-M2")
-    implementation("org.grails.plugins:hibernate5:7.3.1")
+    implementation("org.grails:grails-gradle-plugin:6.0.0-SNAPSHOT")
+    implementation("org.grails.plugins:hibernate5:8.0.0-M2")
 }
