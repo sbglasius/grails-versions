@@ -1,7 +1,7 @@
 plugins {
     id "groovy" 
-    id "org.grails.grails-gsp" 
     id "org.grails.grails-web" 
+    id "org.grails.grails-gsp" 
     id "com.github.erdi.webdriver-binaries" version "3.0"
     id "war" 
     id "idea" 
@@ -42,6 +42,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter")
     implementation("org.springframework.boot:spring-boot-starter-actuator")
     implementation("org.springframework.boot:spring-boot-starter-logging")
+    implementation("org.springframework.boot:spring-boot-starter-tomcat")
     implementation("org.springframework.boot:spring-boot-starter-validation")
     compileOnly("io.micronaut:micronaut-inject-groovy")
     console("org.grails:grails-console")
