@@ -2,7 +2,7 @@ plugins {
     id "groovy" 
     id "org.grails.grails-gsp" 
     id "org.grails.grails-web" 
-    id "com.github.erdi.webdriver-binaries" version "2.7"
+    id "com.github.erdi.webdriver-binaries" version "3.0"
     id "war" 
     id "idea" 
     id "com.bertramlabs.asset-pipeline" 
@@ -55,12 +55,12 @@ dependencies {
     testImplementation("org.grails:grails-web-testing-support")
     testImplementation("org.grails.plugins:geb")
     testImplementation("org.mockito:mockito-core")
-    testImplementation("org.seleniumhq.selenium:selenium-api:4.8.1")
-    testImplementation("org.seleniumhq.selenium:selenium-remote-driver:4.8.1")
-    testImplementation("org.seleniumhq.selenium:selenium-support:4.8.1")
+    testImplementation("org.seleniumhq.selenium:selenium-api:4.9.1")
+    testImplementation("org.seleniumhq.selenium:selenium-remote-driver:4.9.1")
+    testImplementation("org.seleniumhq.selenium:selenium-support:4.9.1")
     testImplementation("org.spockframework:spock-core")
-    testRuntimeOnly("org.seleniumhq.selenium:selenium-chrome-driver:4.8.1")
-    testRuntimeOnly("org.seleniumhq.selenium:selenium-firefox-driver:4.8.1")
+    testRuntimeOnly("org.seleniumhq.selenium:selenium-chrome-driver:4.9.1")
+    testRuntimeOnly("org.seleniumhq.selenium:selenium-firefox-driver:4.9.1")
     testImplementation("io.micronaut:micronaut-http-client")
 
 }

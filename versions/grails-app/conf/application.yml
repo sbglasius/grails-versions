@@ -2,7 +2,7 @@ info:
   app:
     name: versions
     version: '0.1'
-    grailsVersion: 6.0.0-M2
+    grailsVersion: 6.0.0-SNAPSHOT
 grails:
   mime:
     disable:
