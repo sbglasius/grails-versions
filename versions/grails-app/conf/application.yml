@@ -2,22 +2,8 @@ info:
   app:
     name: versions
     version: '0.1'
-    grailsVersion: 6.0.0
+    grailsVersion: 6.1.0
 grails:
-  views:
-    default:
-      codec: html
-    gsp:
-      encoding: UTF-8
-      htmlcodec: xml
-      codecs:
-        expression: html
-        scriptlet: html
-        taglib: none
-        staticparts: none
-  gorm:
-    reactor:
-      events: false
   mime:
     disable:
       accept:
@@ -50,6 +36,20 @@ grails:
       xml:
       - text/xml
       - application/xml
+  views:
+    gsp:
+      encoding: UTF-8
+      htmlcodec: xml
+      codecs:
+        expression: html
+        scriptlet: html
+        taglib: none
+        staticparts: none
+    default:
+      codec: html
+  gorm:
+    reactor:
+      events: false
 dataSource:
   url: jdbc:h2:mem:devDb;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE
   driverClassName: org.h2.Driver
