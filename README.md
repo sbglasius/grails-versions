@@ -12,6 +12,8 @@ Just compare across tags:
 * <https://github.com/sbglasius/grails-versions/compare/3.3.12...4.0.13>
 * <https://github.com/sbglasius/grails-versions/compare/4.0.0...4.0.13>
 * <https://github.com/sbglasius/grails-versions/compare/4.0.13...5.1.3>
+* <https://github.com/sbglasius/grails-versions/compare/5.1.3...6.1.0>
+* <https://github.com/sbglasius/grails-versions/compare/6.0.0...6.1.0>
 
 From the git cli:
 
