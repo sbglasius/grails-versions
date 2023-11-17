@@ -1,13 +1,13 @@
 plugins {
-    id "groovy" 
-    id "org.grails.grails-gsp" 
-    id "org.grails.grails-web" 
-    id "com.github.erdi.webdriver-binaries" version "3.0"
-    id "war" 
-    id "idea" 
-    id "com.bertramlabs.asset-pipeline" 
-    id "application" 
-    id "eclipse" 
+    id "groovy"
+    id "org.grails.grails-web"
+    id "org.grails.grails-gsp"
+    id "com.github.erdi.webdriver-binaries"
+    id "war"
+    id "idea"
+    id "com.bertramlabs.asset-pipeline"
+    id "application"
+    id "eclipse"
 }
 
 version "0.1"
@@ -23,7 +23,7 @@ configurations {
         resolutionStrategy.force 'org.codehaus.groovy:groovy-xml:3.0.13'
         resolutionStrategy.eachDependency { DependencyResolveDetails details->
             if (details.requested.group == 'org.seleniumhq.selenium') {
-                details.useVersion('4.10.0')
+                details.useVersion('4.14.1')
             }
         }
     }
@@ -61,13 +61,13 @@ dependencies {
     testImplementation("org.grails:grails-gorm-testing-support")
     testImplementation("org.grails:grails-web-testing-support")
     testImplementation("org.grails.plugins:geb")
-    testImplementation("org.seleniumhq.selenium:selenium-api:4.10.0")
-    testImplementation("org.seleniumhq.selenium:selenium-remote-driver:4.10.0")
-    testImplementation("org.seleniumhq.selenium:selenium-support:4.10.0")
+    testImplementation("org.seleniumhq.selenium:selenium-api:4.14.1")
+    testImplementation("org.seleniumhq.selenium:selenium-remote-driver:4.14.1")
+    testImplementation("org.seleniumhq.selenium:selenium-support:4.14.1")
     testImplementation("org.spockframework:spock-core")
-    testRuntimeOnly("org.seleniumhq.selenium:selenium-chrome-driver:4.10.0")
-    testRuntimeOnly("org.seleniumhq.selenium:selenium-firefox-driver:4.10.0")
-    testRuntimeOnly("org.seleniumhq.selenium:selenium-safari-driver:4.10.0")
+    testRuntimeOnly("org.seleniumhq.selenium:selenium-chrome-driver:4.14.1")
+    testRuntimeOnly("org.seleniumhq.selenium:selenium-firefox-driver:4.14.1")
+    testRuntimeOnly("org.seleniumhq.selenium:selenium-safari-driver:4.14.1")
     testImplementation("io.micronaut:micronaut-http-client")
 
 }
