@@ -233,17 +233,17 @@ global - Default dependency management for all configurations
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -756,11 +756,11 @@ global - Default dependency management for all configurations
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -771,43 +771,43 @@ global - Default dependency management for all configurations
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -815,7 +815,7 @@ global - Default dependency management for all configurations
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -1496,17 +1496,17 @@ compileClasspath - Dependency management for the compileClasspath configuration
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -2019,11 +2019,11 @@ compileClasspath - Dependency management for the compileClasspath configuration
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -2034,43 +2034,43 @@ compileClasspath - Dependency management for the compileClasspath configuration
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -2078,7 +2078,7 @@ compileClasspath - Dependency management for the compileClasspath configuration
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -2748,17 +2748,17 @@ default - Dependency management for the default configuration
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -3272,11 +3272,11 @@ default - Dependency management for the default configuration
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -3287,43 +3287,43 @@ default - Dependency management for the default configuration
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -3331,7 +3331,7 @@ default - Dependency management for the default configuration
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -4000,17 +4000,17 @@ implementation - Dependency management for the implementation configuration
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -4523,11 +4523,11 @@ implementation - Dependency management for the implementation configuration
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -4538,43 +4538,43 @@ implementation - Dependency management for the implementation configuration
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -4582,7 +4582,7 @@ implementation - Dependency management for the implementation configuration
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -5248,17 +5248,17 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -5771,11 +5771,11 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -5786,43 +5786,43 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -5830,7 +5830,7 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -6496,17 +6496,17 @@ integrationTestImplementation - Dependency management for the integrationTestImp
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -7019,11 +7019,11 @@ integrationTestImplementation - Dependency management for the integrationTestImp
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -7034,43 +7034,43 @@ integrationTestImplementation - Dependency management for the integrationTestImp
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -7078,7 +7078,7 @@ integrationTestImplementation - Dependency management for the integrationTestImp
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -7742,17 +7742,17 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -8266,11 +8266,11 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -8281,43 +8281,43 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -8325,7 +8325,7 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -8989,17 +8989,17 @@ integrationTestRuntimeOnly - Dependency management for the integrationTestRuntim
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -9513,11 +9513,11 @@ integrationTestRuntimeOnly - Dependency management for the integrationTestRuntim
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -9528,43 +9528,43 @@ integrationTestRuntimeOnly - Dependency management for the integrationTestRuntim
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -9572,7 +9572,7 @@ integrationTestRuntimeOnly - Dependency management for the integrationTestRuntim
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -10236,17 +10236,17 @@ productionRuntimeClasspath - Dependency management for the productionRuntimeClas
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -10760,11 +10760,11 @@ productionRuntimeClasspath - Dependency management for the productionRuntimeClas
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -10775,43 +10775,43 @@ productionRuntimeClasspath - Dependency management for the productionRuntimeClas
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -10819,7 +10819,7 @@ productionRuntimeClasspath - Dependency management for the productionRuntimeClas
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -11492,17 +11492,17 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -12016,11 +12016,11 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -12031,43 +12031,43 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -12075,7 +12075,7 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -12739,17 +12739,17 @@ runtimeElements - Dependency management for the runtimeElements configuration
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -13263,11 +13263,11 @@ runtimeElements - Dependency management for the runtimeElements configuration
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -13278,43 +13278,43 @@ runtimeElements - Dependency management for the runtimeElements configuration
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -13322,7 +13322,7 @@ runtimeElements - Dependency management for the runtimeElements configuration
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -13986,17 +13986,17 @@ runtimeOnly - Dependency management for the runtimeOnly configuration
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -14510,11 +14510,11 @@ runtimeOnly - Dependency management for the runtimeOnly configuration
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -14525,43 +14525,43 @@ runtimeOnly - Dependency management for the runtimeOnly configuration
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -14569,7 +14569,7 @@ runtimeOnly - Dependency management for the runtimeOnly configuration
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -15235,17 +15235,17 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -15758,11 +15758,11 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -15773,43 +15773,43 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -15817,7 +15817,7 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -16483,17 +16483,17 @@ testImplementation - Dependency management for the testImplementation configurat
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -17006,11 +17006,11 @@ testImplementation - Dependency management for the testImplementation configurat
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -17021,43 +17021,43 @@ testImplementation - Dependency management for the testImplementation configurat
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -17065,7 +17065,7 @@ testImplementation - Dependency management for the testImplementation configurat
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -17729,17 +17729,17 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -18253,11 +18253,11 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -18268,43 +18268,43 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -18312,7 +18312,7 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -18976,17 +18976,17 @@ testRuntimeOnly - Dependency management for the testRuntimeOnly configuration
 	io.micrometer:micrometer-registry-statsd 1.9.5
 	io.micrometer:micrometer-registry-wavefront 1.9.5
 	io.micrometer:micrometer-test 1.9.5
-	io.micronaut:micronaut-aop 3.5.4
-	io.micronaut:micronaut-bom 3.5.4
-	io.micronaut:micronaut-buffer-netty 3.5.4
-	io.micronaut:micronaut-core 3.5.4
-	io.micronaut:micronaut-http 3.5.4
-	io.micronaut:micronaut-http-client 3.5.4
-	io.micronaut:micronaut-http-netty 3.5.4
-	io.micronaut:micronaut-inject 3.5.4
-	io.micronaut:micronaut-inject-groovy 3.5.4
-	io.micronaut:micronaut-inject-java 3.5.4
-	io.micronaut:micronaut-runtime 3.5.4
+	io.micronaut:micronaut-aop 3.5.7
+	io.micronaut:micronaut-bom 3.5.7
+	io.micronaut:micronaut-buffer-netty 3.5.7
+	io.micronaut:micronaut-core 3.5.7
+	io.micronaut:micronaut-http 3.5.7
+	io.micronaut:micronaut-http-client 3.5.7
+	io.micronaut:micronaut-http-netty 3.5.7
+	io.micronaut:micronaut-inject 3.5.7
+	io.micronaut:micronaut-inject-groovy 3.5.7
+	io.micronaut:micronaut-inject-java 3.5.7
+	io.micronaut:micronaut-runtime 3.5.7
 	io.micronaut.cache:micronaut-cache-core 3.4.2
 	io.micronaut.groovy:micronaut-runtime-groovy 3.0.0
 	io.micronaut.spring:micronaut-spring-annotation 4.2.2
@@ -19500,11 +19500,11 @@ testRuntimeOnly - Dependency management for the testRuntimeOnly configuration
 	org.grails:grails-async-gpars 4.0.0
 	org.grails:grails-async-rxjava 4.0.0
 	org.grails:grails-async-rxjava2 4.0.0
-	org.grails:grails-bootstrap 5.2.5
-	org.grails:grails-codecs 5.2.5
-	org.grails:grails-console 5.2.5
-	org.grails:grails-core 5.2.5
-	org.grails:grails-databinding 5.2.5
+	org.grails:grails-bootstrap 5.2.6
+	org.grails:grails-codecs 5.2.6
+	org.grails:grails-console 5.2.6
+	org.grails:grails-core 5.2.6
+	org.grails:grails-databinding 5.2.6
 	org.grails:grails-datastore-async 7.3.2
 	org.grails:grails-datastore-core 7.3.2
 	org.grails:grails-datastore-gorm 7.3.2
@@ -19515,43 +19515,43 @@ testRuntimeOnly - Dependency management for the testRuntimeOnly configuration
 	org.grails:grails-datastore-gorm-test 7.3.2
 	org.grails:grails-datastore-gorm-validation 7.3.2
 	org.grails:grails-datastore-web 7.3.2
-	org.grails:grails-dependencies 5.2.5
-	org.grails:grails-docs 5.2.5
-	org.grails:grails-encoder 5.2.5
+	org.grails:grails-dependencies 5.2.6
+	org.grails:grails-docs 5.2.6
+	org.grails:grails-encoder 5.2.6
 	org.grails:grails-events-gpars 4.0.0
 	org.grails:grails-events-rxjava 4.0.0
 	org.grails:grails-events-rxjava2 4.0.0
 	org.grails:grails-gorm-testing-support 2.4.1
-	org.grails:grails-gradle-model 5.2.5
-	org.grails:grails-logging 5.2.5
-	org.grails:grails-plugin-codecs 5.2.5
-	org.grails:grails-plugin-controllers 5.2.5
-	org.grails:grails-plugin-databinding 5.2.5
-	org.grails:grails-plugin-datasource 5.2.5
-	org.grails:grails-plugin-domain-class 5.2.5
-	org.grails:grails-plugin-i18n 5.2.5
-	org.grails:grails-plugin-interceptors 5.2.5
-	org.grails:grails-plugin-mimetypes 5.2.5
-	org.grails:grails-plugin-rest 5.2.5
-	org.grails:grails-plugin-services 5.2.5
-	org.grails:grails-plugin-url-mappings 5.2.5
-	org.grails:grails-plugin-validation 5.2.5
-	org.grails:grails-shell 5.2.5
-	org.grails:grails-spring 5.2.5
-	org.grails:grails-test 5.2.5
-	org.grails:grails-test-suite-base 5.2.5
-	org.grails:grails-test-suite-persistence 5.2.5
-	org.grails:grails-test-suite-uber 5.2.5
-	org.grails:grails-test-suite-web 5.2.5
+	org.grails:grails-gradle-model 5.2.6
+	org.grails:grails-logging 5.2.6
+	org.grails:grails-plugin-codecs 5.2.6
+	org.grails:grails-plugin-controllers 5.2.6
+	org.grails:grails-plugin-databinding 5.2.6
+	org.grails:grails-plugin-datasource 5.2.6
+	org.grails:grails-plugin-domain-class 5.2.6
+	org.grails:grails-plugin-i18n 5.2.6
+	org.grails:grails-plugin-interceptors 5.2.6
+	org.grails:grails-plugin-mimetypes 5.2.6
+	org.grails:grails-plugin-rest 5.2.6
+	org.grails:grails-plugin-services 5.2.6
+	org.grails:grails-plugin-url-mappings 5.2.6
+	org.grails:grails-plugin-validation 5.2.6
+	org.grails:grails-shell 5.2.6
+	org.grails:grails-spring 5.2.6
+	org.grails:grails-test 5.2.6
+	org.grails:grails-test-suite-base 5.2.6
+	org.grails:grails-test-suite-persistence 5.2.6
+	org.grails:grails-test-suite-uber 5.2.6
+	org.grails:grails-test-suite-web 5.2.6
 	org.grails:grails-testing-support 2.4.1
-	org.grails:grails-web 5.2.5
-	org.grails:grails-web-boot 5.2.5
-	org.grails:grails-web-common 5.2.5
-	org.grails:grails-web-databinding 5.2.5
-	org.grails:grails-web-fileupload 5.2.5
-	org.grails:grails-web-mvc 5.2.5
+	org.grails:grails-web 5.2.6
+	org.grails:grails-web-boot 5.2.6
+	org.grails:grails-web-common 5.2.6
+	org.grails:grails-web-databinding 5.2.6
+	org.grails:grails-web-fileupload 5.2.6
+	org.grails:grails-web-mvc 5.2.6
 	org.grails:grails-web-testing-support 2.4.1
-	org.grails:grails-web-url-mappings 5.2.5
+	org.grails:grails-web-url-mappings 5.2.6
 	org.grails:scaffolding-core 2.1.0
 	org.grails:views-json-testing-support 2.3.2
 	org.grails.plugins:async 4.0.0
@@ -19559,7 +19559,7 @@ testRuntimeOnly - Dependency management for the testRuntimeOnly configuration
 	org.grails.plugins:events 4.0.0
 	org.grails.plugins:fields 3.0.0.RC1
 	org.grails.plugins:geb 3.0.0
-	org.grails.plugins:grails-gradle-plugin 5.2.4
+	org.grails.plugins:grails-gradle-plugin 5.2.6
 	org.grails.plugins:gsp 5.2.1
 	org.grails.plugins:hibernate5 7.3.0
 	org.grails.plugins:mongodb 7.3.0
@@ -20003,5 +20003,5 @@ You can use '--warning-mode all' to show the individual deprecation warnings and
 
 See https://docs.gradle.org/7.2/userguide/command_line_interface.html#sec:command_line_warnings
 
-BUILD SUCCESSFUL in 50s
+BUILD SUCCESSFUL in 10s
 1 actionable task: 1 executed
