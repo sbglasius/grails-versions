@@ -2,6 +2,7 @@ Thumbs.db
 .DS_Store
 .gradle
 build/
+target/
 out/
 .idea
 *.iml
@@ -10,3 +11,4 @@ out/
 .project
 .settings
 .classpath
+.factorypath
