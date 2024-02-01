@@ -1,7 +1,7 @@
-## Grails 6.1.1 Documentation
+## Grails 6.1.2 Documentation
 
-- [User Guide](https://docs.grails.org/6.1.1/guide/index.html)
-- [API Reference](https://docs.grails.org/6.1.1/api/index.html)
+- [User Guide](https://docs.grails.org/6.1.2/guide/index.html)
+- [API Reference](https://docs.grails.org/6.1.2/api/index.html)
 - [Grails Guides](https://guides.grails.org/index.html)
 ---
 
