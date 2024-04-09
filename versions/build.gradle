@@ -1,7 +1,7 @@
 plugins {
     id "groovy"
-    id "org.grails.grails-web"
     id "org.grails.grails-gsp"
+    id "org.grails.grails-web"
     id "com.github.erdi.webdriver-binaries"
     id "war"
     id "idea"
@@ -19,7 +19,6 @@ repositories {
 
 configurations {
     all {
-        resolutionStrategy.force 'org.codehaus.groovy:groovy-xml:3.0.13'
         resolutionStrategy.eachDependency { DependencyResolveDetails details->
             if (details.requested.group == 'org.seleniumhq.selenium') {
                 details.useVersion('4.16.1')
@@ -85,9 +84,6 @@ tasks.withType(Test) {
     systemProperty "geb.build.reportsDir", reporting.file("geb/integrationTest")
     systemProperty 'webdriver.chrome.driver', "${System.getenv('CHROMEWEBDRIVER')}/chromedriver"
     systemProperty 'webdriver.gecko.driver', "${System.getenv('GECKOWEBDRIVER')}/geckodriver"
-}
-tasks.withType(War).configureEach { War war ->
-    war.dependsOn compileGroovyPages
 }
 webdriverBinaries {
     chromedriver '110.0.5481.77'
