@@ -1,19 +1,19 @@
-## Grails 6.1.2 Documentation
+## Grails 6.2.0 Documentation
 
-- [User Guide](https://docs.grails.org/6.1.2/guide/index.html)
-- [API Reference](https://docs.grails.org/6.1.2/api/index.html)
+- [User Guide](https://docs.grails.org/6.2.0/guide/index.html)
+- [API Reference](https://docs.grails.org/6.2.0/api/index.html)
 - [Grails Guides](https://guides.grails.org/index.html)
 ---
+
+## Feature asset-pipeline-grails documentation
+
+- [Grails Asset Pipeline Core documentation](https://www.asset-pipeline.com/manual/)
 
 ## Feature geb documentation
 
 - [Grails Geb Functional Testing for Grails documentation](https://github.com/grails3-plugins/geb#readme)
 
 - [https://www.gebish.org/manual/current/](https://www.gebish.org/manual/current/)
-
-## Feature asset-pipeline-grails documentation
-
-- [Grails Asset Pipeline Core documentation](https://www.asset-pipeline.com/manual/)
 
 ## Feature scaffolding documentation
 
