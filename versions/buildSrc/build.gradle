@@ -5,10 +5,5 @@ repositories {
 dependencies {
     implementation("com.bertramlabs.plugins:asset-pipeline-gradle:4.3.0")
     implementation("org.grails:grails-gradle-plugin:6.1.2")
-    implementation("org.grails.plugins:hibernate5:8.0.2")
-}
-configurations.configureEach {
-    // Needed for Gradle compatibility with Grails Gradle Plugin.
-    // (Only needed when there are files in buildSrc/src/*/groovy)
-    resolutionStrategy.force "org.codehaus.groovy:groovy-xml:${GroovySystem.version}"
+    implementation("org.grails.plugins:hibernate5:8.1.0")
 }
