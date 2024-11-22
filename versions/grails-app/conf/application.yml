@@ -3,7 +3,63 @@ info:
     name: '@info.app.name@'
     version: '@info.app.version@'
     grailsVersion: '@info.app.grailsVersion@'
+dataSource:
+  driverClassName: org.h2.Driver
+  username: sa
+  password: ''
+  pooled: true
+  jmxExport: true
+environments:
+  development:
+    dataSource:
+      dbCreate: create-drop
+      url: jdbc:h2:mem:devDb;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE
+  test:
+    dataSource:
+      dbCreate: update
+      url: jdbc:h2:mem:testDb;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE
+  production:
+    dataSource:
+      dbCreate: none
+      url: jdbc:h2:./prodDb;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE
+      properties:
+        jmxEnabled: true
+        initialSize: 5
+        maxActive: 50
+        minIdle: 5
+        maxIdle: 25
+        maxWait: 10000
+        maxAge: 600000
+        timeBetweenEvictionRunsMillis: 5000
+        minEvictableIdleTimeMillis: 60000
+        validationQuery: SELECT 1
+        validationQueryTimeout: 3
+        validationInterval: 15000
+        testOnBorrow: true
+        testWhileIdle: true
+        testOnReturn: false
+        jdbcInterceptors: ConnectionState
+        defaultTransactionIsolation: 2
+hibernate:
+  cache:
+    queries: false
+    use_second_level_cache: false
+    use_query_cache: false
 grails:
+  codegen:
+    defaultPackage: versions
+  profile: web
+  views:
+    default:
+      codec: html
+    gsp:
+      encoding: UTF-8
+      htmlcodec: xml
+      codecs:
+        expression: html
+        scriptlet: html
+        taglib: none
+        staticparts: none
   mime:
     disable:
       accept:
@@ -36,27 +92,3 @@ grails:
       xml:
       - text/xml
       - application/xml
-  views:
-    gsp:
-      encoding: UTF-8
-      htmlcodec: xml
-      codecs:
-        expression: html
-        scriptlet: html
-        taglib: none
-        staticparts: none
-    default:
-      codec: html
-dataSource:
-  url: jdbc:h2:mem:devDb;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE
-  driverClassName: org.h2.Driver
-  username: sa
-  password: ''
-  pooled: true
-  jmxExport: true
-  dbCreate: update
-hibernate:
-  cache:
-    queries: false
-    use_second_level_cache: false
-    use_query_cache: false
