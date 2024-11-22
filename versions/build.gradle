@@ -10,7 +10,6 @@ plugins {
     id "eclipse"
 }
 
-version "0.1"
 group = "versions"
 
 repositories {
@@ -23,7 +22,7 @@ configurations {
         resolutionStrategy.force 'org.codehaus.groovy:groovy-xml:3.0.13'
         resolutionStrategy.eachDependency { DependencyResolveDetails details->
             if (details.requested.group == 'org.seleniumhq.selenium') {
-                details.useVersion('4.14.1')
+                details.useVersion('4.16.1')
             }
         }
     }
@@ -61,13 +60,13 @@ dependencies {
     testImplementation("org.grails:grails-gorm-testing-support")
     testImplementation("org.grails:grails-web-testing-support")
     testImplementation("org.grails.plugins:geb")
-    testImplementation("org.seleniumhq.selenium:selenium-api:4.14.1")
-    testImplementation("org.seleniumhq.selenium:selenium-remote-driver:4.14.1")
-    testImplementation("org.seleniumhq.selenium:selenium-support:4.14.1")
+    testImplementation("org.seleniumhq.selenium:selenium-api:4.16.1")
+    testImplementation("org.seleniumhq.selenium:selenium-remote-driver:4.16.1")
+    testImplementation("org.seleniumhq.selenium:selenium-support:4.16.1")
     testImplementation("org.spockframework:spock-core")
-    testRuntimeOnly("org.seleniumhq.selenium:selenium-chrome-driver:4.14.1")
-    testRuntimeOnly("org.seleniumhq.selenium:selenium-firefox-driver:4.14.1")
-    testRuntimeOnly("org.seleniumhq.selenium:selenium-safari-driver:4.14.1")
+    testRuntimeOnly("org.seleniumhq.selenium:selenium-chrome-driver:4.16.1")
+    testRuntimeOnly("org.seleniumhq.selenium:selenium-firefox-driver:4.16.1")
+    testRuntimeOnly("org.seleniumhq.selenium:selenium-safari-driver:4.16.1")
     testImplementation("io.micronaut:micronaut-http-client")
 
 }
