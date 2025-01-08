@@ -4,9 +4,6 @@ info:
     version: '@info.app.version@'
     grailsVersion: '@info.app.grailsVersion@'
 grails:
-  codegen:
-    defaultPackage: versions
-  profile: web
   views:
     default:
       codec: html
@@ -50,6 +47,9 @@ grails:
       xml:
       - text/xml
       - application/xml
+  codegen:
+    defaultPackage: versions
+  profile: web
 dataSource:
   driverClassName: org.h2.Driver
   username: sa
