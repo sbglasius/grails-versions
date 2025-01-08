@@ -1,7 +1,7 @@
 plugins {
     id "groovy"
-    id "org.grails.grails-gsp"
     id "org.grails.grails-web"
+    id "org.grails.grails-gsp"
     id "com.github.erdi.webdriver-binaries"
     id "war"
     id "idea"
@@ -72,7 +72,7 @@ application {
 }
 
 java {
-    sourceCompatibility = JavaVersion.toVersion("11")
+    sourceCompatibility = JavaVersion.toVersion("17")
 }
 
 tasks.withType(Test) {
